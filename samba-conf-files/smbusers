@@ -1,0 +1,10 @@
+# Map usernames from the clients to the server
+# Unix_name = SMB_name1 SMB_name2 ...
+#
+# Examples:
+# root = administrator admin
+# nobody = guest pcguest smbguest
+# mary = mary 
+# johns = "John Smith"
+#
+# For more information, see http://htyp.org/smbusers
